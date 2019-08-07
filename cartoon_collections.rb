@@ -1,10 +1,5 @@
 def roll_call_dwarves# code an argument here
   # Your code here
-  #hash = Hash.new
-#%w(cat dog wombat).each_with_index { |item, index|
- # hash[item] = index
-#}
-#hash 
 
 end
 
